@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstWebSiteCPP", "FirstWebSiteCPP\FirstWebSiteCPP.vcxproj", "{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Debug|x64.ActiveCfg = Debug|x64
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Debug|x64.Build.0 = Debug|x64
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Debug|x86.Build.0 = Debug|Win32
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Release|x64.ActiveCfg = Release|x64
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Release|x64.Build.0 = Release|x64
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Release|x86.ActiveCfg = Release|Win32
+		{DC753812-E3D9-40D9-BEE8-2BB8A85A715E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DE8F09-0A17-4E25-8100-BA87B8E0D22D}
+	EndGlobalSection
+EndGlobal
